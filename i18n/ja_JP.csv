@@ -1,0 +1,28 @@
+Import,インポート
+"Import translations","翻訳をインポート"
+Locale,ロケール
+"Translation Center","翻訳センター"
+"-- Link with your Google Account first --","-- Googleアカウントを先に設定してください --"
+"Logged in as %1","%1 としてログインしています"
+"Linked with Google Account","Googleアカウントとリンク済"
+Re-link,再リンク
+Unlink,リンク解除
+"Unlink & revoke token","リンクを解除し、トークンを削除する"
+"Link with your Google Account","Googleアカウントとリンクする"
+Settings,設定
+General,全般
+"Enable translation interceptor","翻訳インターセプターを有効にする"
+"Translations storage","翻訳ストレージ"
+"Locales to intercept","インターセプトするロケール"
+"Store metadata","ストアメタデータ"
+Cache,キャッシュ
+"Enable interceptions caching","インターセプションキャッシュを有効にする"
+"Cache storage","キャッシュストレージ"
+Advanced,拡張
+"Language packages vendor name","言語パッケージのベンダー名"
+"The vendor name that shall be used when generating new language package","ベンダー名は新しい言語パッケージを生成する際に使用されます"
+"Inherit language packages from","言語パッケージ継承元"
+"The name of the existing vendor, that one's language package shall be used as a parent for the newly generated language package","既存のベンダー名。新しく生成する言語パッケージはこのベンダーのものを親として作成されます"
+"Google Sheets","Googleスプレッドシート"
+"Client ID","クライアントID"
+"Client secret","クライアントシークレット"
